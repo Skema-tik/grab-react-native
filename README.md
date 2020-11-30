@@ -3,7 +3,7 @@
 # grab-react-native
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 
-Grab User Interface on React Native.
+Build Grab on React Native.
 
 **DISCLAIMER**
  _Please do not use this project for your own products or apps because all of the icons, font, and layout is property of Grab. You can use this project for learning purposes only._ 
@@ -20,7 +20,7 @@ To install, there are two steps:
 
 1. Clone this repo and run `npm install`
   ```bash
-  git clone https://github.com/gedeagas/grab-react-native.git grabrn
+  git clone https://github.com/umarudy/grab-react-native.git grabrn
 
   cd grabrn
   npm install
@@ -47,5 +47,3 @@ commits.
 implementing features, refactoring code, porting to a different language),
 otherwise you risk spending a lot of time working on something that the
 project's developers might not want to merge into the project.
-
-
